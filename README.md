@@ -12,11 +12,11 @@ The project ERM (Entity Relational Model) is as shown in the image below.
 
 1 - Ruby
 
-To install Ruby, I recommended use [rbenv](https://github.com/rbenv/rbenv#installation). Just follow the instructions in link.
+To install Ruby, I recommended use [rbenv](https://github.com/rbenv/rbenv#installation) (Just follow the instructions in link)
 
 2 - Postgres
 
-To install Postgres, I recommended use [Docker](https://hub.docker.com/_/postgres). This link is the official image of the Postgres. 
+To install Postgres, I recommended use [Docker](https://hub.docker.com/_/postgres) (This link is the official image of the Postgres)
 
 ### Dependencies
 
